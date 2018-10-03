@@ -1,0 +1,18 @@
+{
+  "name": "tensorflow-example",
+  "version": "1.0.0",
+  "description": "tensorflow-example",
+  "main": "index.js",
+  "scripts": {
+    "startDev": "nodemon --ignore data/ index.js",
+    "start": "node index.js"
+  },
+  "author": "Romano Firtermaiszter",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
