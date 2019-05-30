@@ -10,7 +10,7 @@
   "author": "Romano Firtermaiszter",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs": "^0.13.0"
+    "@tensorflow/tfjs": "^0.13.5"
   },
   "devDependencies": {
     "nodemon": "^1.18.4"
